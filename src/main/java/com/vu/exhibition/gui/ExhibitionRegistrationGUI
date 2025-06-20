@@ -422,3 +422,4 @@ public class ExhibitionRegistrationGUI extends JFrame {
         });
     }
 }
+
